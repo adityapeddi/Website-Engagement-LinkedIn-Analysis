@@ -126,21 +126,7 @@ Filters:
 
 ---
 
-## 2. Data & Assumptions
-
-> ⚠️ **Important:**  
-> For portfolio purposes, it is recommended to use **synthetic or anonymized data** instead of real company data.
-
-Typical data sources used for this report:
-
-- Exported **Google Analytics** data (sessions, engagement, users, geography, device, etc.)
-- Exported **LinkedIn outreach** & **content performance** data (messages, replies, calls, impressions, demographics, etc.)
-
-You can replace these with your own exports or simulated datasets while keeping the same data model and visuals.
-
----
-
-## 3. Features & Skills Demonstrated
+## 2. Features & Skills Demonstrated
 
 - End-to-end **Power BI report development**
 - Data modeling for multi-source marketing data
